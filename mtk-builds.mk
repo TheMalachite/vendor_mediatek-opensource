@@ -37,4 +37,5 @@ PRODUCT_PACKAGES += \
     android.hardware.audio@5.0-impl-mediatek \
     android.hardware.power@1.3-impl-mediatek \
     vendor.mediatek.hardware.mtkpower@1.0-impl \
-    vendor.mediatek.hardware.mtkpower@1.0-service
+    vendor.mediatek.hardware.mtkpower@1.0-service \
+    libSoftGatekeeper
